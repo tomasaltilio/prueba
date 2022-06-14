@@ -2,7 +2,7 @@
 - Document here the project: prueba
 - Description: Es un trabajo en progreso.
 - Data Source:
-- Type of analysis:
+- Type of analysis: cambios conflictivos
 
 Please document the project the better you can.
 
